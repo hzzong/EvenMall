@@ -1,5 +1,12 @@
 package com.example.mall.service.impl;
 
-public class UserServiceImpl {
+import com.example.mall.service.UserService;
+
+public class UserServiceImpl implements UserService{
+	
+	@Override
+	public String register(String loginName, String password) {
+		return null;
+	}
 
 }
