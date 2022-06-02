@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 package com.example.mall.util;
 
 import org.springframework.stereotype.Component;
@@ -24,3 +25,10 @@ public class PhoneNumberUtil {
         return !isPhoneNumber(phone);
     }
 }
+=======
+package com.example.mall.util;
+
+public class PhoneNumberUtil {
+
+}
+>>>>>>> origin/master
